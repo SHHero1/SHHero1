@@ -8,7 +8,7 @@ Skills: Django/Flutter/JS/HTML/CSS/PHP/C/C++/Java/Python
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on projects related to Flutter app development, Python, Django, and AI concepts like fuzzy logic and neural networks. 
 - 🤔 I’m looking for help with I’m looking for help with advanced Flutter techniques, optimizing neural network models, and implementing fuzzy logic in real-world applications. 
-- 💬 Ask me about Competitive Programming, Problem Solving & Algorithm, Flutter app development, Python programming, Django frameworks, or AI concepts like fuzzy logic and neural networks. 
+- 💬 Ask me about Competitive Programming, Problem Solving, Algorithm, Data Structure, Flutter app development,Django frameworks, or AI concepts like Fuzzy Logic and Neural Networks. 
 - 📫 How to reach me: showrab.cse@gmail.com
 - 😄 Pronouns: Him/His/He 
 - ⚡ Fun fact: Traveling/Cooking 
