@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Showrab Hossain Hero
-#### Learner | Flutter Developer | Mobile App | Android | IOs
+#### I'm a Learner | Problem Solver | Flutter Developer | Mobile App | Android | IOs
 I am a passionate Flutter Developer dedicated to building efficient and user-friendly mobile applications for both Android and iOS platforms. With a strong foundation in Computer Science and Engineering, I focus on writing clean, maintainable code while ensuring optimal performance and seamless user experiences.
 
 Skills: Django/Flutter/JS/HTML/CSS/PHP/C/C++/Java/Python
@@ -8,10 +8,10 @@ Skills: Django/Flutter/JS/HTML/CSS/PHP/C/C++/Java/Python
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on projects related to Flutter app development, Python, Django, and AI concepts like fuzzy logic and neural networks. 
 - 🤔 I’m looking for help with I’m looking for help with advanced Flutter techniques, optimizing neural network models, and implementing fuzzy logic in real-world applications. 
-- 💬 Ask me about Flutter app development, Python programming, Django frameworks, or AI concepts like fuzzy logic and neural networks. 
-- 📫 How to reach me: Email | Whatsapp | Facebook | LinkedIn 
+- 💬 Ask me about Competitive Programming, Problem Solving & Algorithm, Flutter app development, Python programming, Django frameworks, or AI concepts like fuzzy logic and neural networks. 
+- 📫 How to reach me: showrab.cse@gmail.com
 - 😄 Pronouns: Him/His/He 
-- ⚡ Fun fact: Traveling/ Sports 
+- ⚡ Fun fact: Traveling/Cooking 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SHHero1)  
