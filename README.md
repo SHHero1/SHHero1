@@ -3,12 +3,13 @@
 I am a passionate Flutter Developer dedicated to building efficient and user-friendly mobile applications for both Android and iOS platforms. With a strong foundation in Computer Science and Engineering, I focus on writing clean, maintainable code while ensuring optimal performance and seamless user experiences.
 
 Skills: Django/Flutter/JS/HTML/CSS/PHP/C/C++/Java/Python
+Specially Expart In Django
 
 - 🔭 I’m currently working on Flutter  
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on projects related to Flutter app development, Python, Django, and AI concepts like fuzzy logic and neural networks. 
 - 🤔 I’m looking for help with I’m looking for help with advanced Flutter techniques, optimizing neural network models, and implementing fuzzy logic in real-world applications. 
-- 💬 Ask me about Competitive Programming, Problem Solving, Algorithm, Data Structure, Flutter app development,Django frameworks, or AI concepts like Fuzzy Logic and Neural Networks. 
+- 💬 Ask me about Competitive Programming, Problem Solving,Data Structure & Algorithm,Flutter app development,Django frameworks, or AI concepts like Fuzzy Logic and Neural Networks. 
 - 📫 How to reach me: showrab.cse@gmail.com
 - 😄 Pronouns: Him/His/He 
 - ⚡ Fun fact: Traveling/Cooking 
