@@ -1,5 +1,5 @@
 ### Hello, I'm Showrab Hossain Hero
-#### I'm a Learner | Problem Solver| Web Developer | Flutter Developer | Mobile App | Android | IOs
+#### I'm a Learner | Problem Solver | Web Developer | Flutter Developer | Mobile App | Android | IOs
 I am a passionate Flutter Developer dedicated to building efficient and user-friendly mobile applications for both Android and iOS platforms. With a strong foundation in Computer Science and Engineering, I focus on writing clean, maintainable code while ensuring optimal performance and seamless user experiences.
 
 Skills: Django/JS/HTML/CSS/PHP/C/C++/Java/Python/Flutter
